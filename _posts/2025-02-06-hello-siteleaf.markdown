@@ -7,3 +7,4 @@ layout: post
 This post was written within Siteleaf.
 
 And this line was updated in VS Code.
+![ghost.png](/uploads/ghost.png)
